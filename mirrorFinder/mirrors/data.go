@@ -1,6 +1,6 @@
 package mirrors
 
-// MirrorList é uma lista de mirrors do Debian Linux
+// MirrorList é uma lista  de mirrors do Debian Linux
 var MirrorList = [...]string{
 	"http://ftp.am.debian.org/debian/",
 	"http://ftp.au.debian.org/debian/",
