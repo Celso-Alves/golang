@@ -1,0 +1,1 @@
+Modelo de API REST com funções de inclusão/alteração/exclusão(CRUD) utilizando o framework gin sqllite3 para persistir os dados.
